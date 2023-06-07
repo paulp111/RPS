@@ -1,5 +1,6 @@
 # RPS
 Simple Rock, Paper, Scissors game 
+
 This is a simple Rock, Paper, Scissors game implemented in JavaScript. You can play it against the computer, which chooses completly random.
 
 How to play
